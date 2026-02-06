@@ -7,7 +7,7 @@
           | |                                                    | |
           | | Autores:                                           | |
           | | - Aluno 1, 115216;                                 | |
-          | | - Gonçalo Alexandre Silva Figueira, 109438;        | |
+          | | - Gonçalo Figueira, 109438;        | |
           | | - Aluno 3, 118734;                                 | |
           | | - Aluno 4, 115154;                                 | |
           | | - Aluno 5, 119337;                                 | |
