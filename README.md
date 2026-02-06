@@ -117,7 +117,7 @@ O código foi estruturado modularmente para facilitar a manutenção e compreens
 
 ## Esquema Elétrico
 O circuito foi projetado e documentado utilizando a ferramenta Fritzing:
-https://github.com/seu-usuario/seu-repositorio/blob/main/esquema_frequencimetro.png?raw=true
+[https://github.com/seu-usuario/seu-repositorio/blob/main/esquema_frequencimetro.png?raw=true](https://github.com/goncalofigueira59/frequency-counter/blob/main/assets/Esquema_El%C3%A9trico.png)
 
 Legenda:
 - Vin: Entrada do sinal a medir
@@ -129,6 +129,7 @@ Legenda:
 ## Resultados
 
 O sistema final excedeu as especificações iniciais, apresentando os seguintes resultados:
+https://github.com/goncalofigueira59/frequency-counter/blob/main/assets/Prot%C3%B3tipo%20Acabado.jpg
 
 - **Faixa de Frequência:** 1 Hz a 30 kHz, com a Precisão de ~99.9% (sinais estáveis) aproximadamente.
 - **Tensão Máxima:** 7.5V RMS (~10.6V pico)
@@ -155,7 +156,7 @@ Este projeto serviu como integrador prático de conhecimentos em eletrónica ana
 ---
 
 ### Código Fonte
-O código completo está no repositório, no link. 
+O código completo está no repositório, no link: https://github.com/goncalofigueira59/frequency-counter/tree/main/src 
 
 Para utilização, copie para a Arduino IDE, instale a biblioteca LiquidCrystal_I2C e carregue para o Arduino UNO.
 
